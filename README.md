@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on backword.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on making program.
+- 💬 Ask me about student life and study.
+- 📫 How to reach me: wechat:2907900080cby
+- ⚡ email: cby@dlmu.edu.cn
