@@ -1,8 +1,4 @@
 ## I'm Boyu Cai ✨
-<p align="center"> 
-  Visitors<br><img src="https://profile-counter.glitch.me/rongweihe/count.svg" />
-</p>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dmucby&show_icons=true" />
 
 <!--
