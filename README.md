@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about student life and study.
 - 📫 How to reach me: Wechat cby2907900080
 - ⚡ email: cby@dlmu.edu.cn
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmucby&show_icons=true&theme=transparent)
