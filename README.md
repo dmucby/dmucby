@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Wechat cby2907900080
 - ⚡ email: cby@dlmu.edu.cn
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmucby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmucby&repo=convoychat" />
+</a>
 
