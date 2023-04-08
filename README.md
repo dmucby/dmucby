@@ -1,5 +1,4 @@
 ## I'm Boyu Cai ✨
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmucby&show_icons=true" />
 
 <!--
 **dmucby/dmucby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +24,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmucby)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmucby&show_icons=true" />
