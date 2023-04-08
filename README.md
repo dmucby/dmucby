@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dmucby&show_icons=true" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dmucby" /> -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dmucby)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dmucby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
