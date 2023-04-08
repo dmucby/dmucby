@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - ⚡ email: cby@dlmu.edu.cn
 
 
-<img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dmucby" />
+<img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dmucby&layout=compact" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dmucby&show_icons=true" />
