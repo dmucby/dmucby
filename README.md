@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on backword.
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on making program.
+- 🔭 I’m currently working on CV\P4\Web.
+- 👯 I’m looking to collaborate on making interesting program.
 - 💬 Ask me about student life and study.
 - 📫 How to reach me: Wechat cby2907900080
-- ⚡ email: cby@dlmu.edu.cn
+- ⚡ email: cbyhlc@gmail.com
